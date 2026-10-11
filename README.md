@@ -1,4 +1,4 @@
-# First Landing Page
+# Landing Page
 
 This is landing page has been designed as part of Odin Project Fundamentals course assignment
 
